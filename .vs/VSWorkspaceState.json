@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\dishes",
+    "\\frontend",
+    "\\frontend\\migrations",
+    "\\frontend\\src",
+    "\\frontend\\static",
+    "\\frontend\\templates",
+    "\\mysite"
+  ],
+  "SelectedNode": "\\frontend\\templates\\index.html",
+  "PreviewInSolutionExplorer": false
+}
